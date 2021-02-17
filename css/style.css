@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #ccc;
+}
+
+#container {
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#playButtons,
+#nextButtons {
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 7px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#btnPlay,
+#btnPause,
+#btnStop,
+#btnNext {
+  margin: 10px;
+  padding: 15px;
+}
+
+#myVideo {
+  width: 100%;
+}
+
+#vidNum {
+  float: right;
+}
+
+button {
+  width: 90%;
+  text-align: center;
+}
